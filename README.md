@@ -33,7 +33,7 @@ Xylophone is a fun and interactive iOS application that simulates a musical xylo
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/chrohittrar/Xylophone-iOS.git
    ```
 
 2. Open the project in Xcode.
@@ -49,4 +49,4 @@ Xylophone is developed using Swift and follows the Model-View-Controller (MVC) a
 
 Xylophone aims to provide users with a delightful musical experience. Special thanks to the Swift and iOS development communities for their continuous support and inspiration.
 
-Feel free to explore and enhance Xylophone with additional features or improvements. If you encounter any issues or have suggestions, please create an [issue](https://github.com/your-username/xylophone-app/issues).
+Feel free to explore and enhance Xylophone with additional features or improvements. If you encounter any issues or have suggestions, please create an [issue](https://github.com/chrohittrar/Xylophone-iOS/issues).
